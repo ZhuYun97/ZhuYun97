@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am ZhuYun [Dream]
 
-- Mainly focus on graph representation learning
+- Mainly focusing on graph representation learning
 - Also interested in self-supervised learning and complex system
 - Currently working on graph contrastive learning
 
