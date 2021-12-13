@@ -5,6 +5,8 @@
 - Currently working on graph contrastive learning
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 **🐱 My GitHub Data** 
