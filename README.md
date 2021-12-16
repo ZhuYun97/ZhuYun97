@@ -5,15 +5,13 @@
 - Currently working on graph contrastive learning
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 48 Contributions in the Year 2021
  > 
-> 📦 210.1 kB Used in GitHub's Storage 
+> 📦 210.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,7 +82,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ZhuYun97/ZhuYun97/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
 ### 😎 Github Stats
