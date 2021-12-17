@@ -81,9 +81,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ZhuYun97/ZhuYun97/main/charts/bar_graph.png) 
 
 
  Last Updated on 16/12/2021
