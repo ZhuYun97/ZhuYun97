@@ -81,13 +81,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ZhuYun97/ZhuYun97/main/charts/bar_graph.png) 
-
-
- Last Updated on 23/12/2021
-<!--END_SECTION:waka-->
-
 ### 😎 Github Stats
 ![ZhuYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuYun97&show_icons=true&theme=onedark)
