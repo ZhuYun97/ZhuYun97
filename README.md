@@ -4,7 +4,7 @@
 - Also interested in self-supervised learning and complex system
 - Currently working on graph contrastive learning
 
-![Visitor Count](https://profile-counter.glitch.me/ZhuYun97/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/ZhuYun97/count.svg) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2058%20mins-blue)
