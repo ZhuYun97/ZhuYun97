@@ -4,6 +4,8 @@
 - Also interested in self-supervised learning and complex system
 - Currently working on graph contrastive learning
 
+![Visitor Count](https://profile-counter.glitch.me/ZhuYun97/count.svg)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2058%20mins-blue)
 
@@ -42,16 +44,9 @@ Other                    4 hrs 4 mins        ████░░░░░░░�
 Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
 Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
 Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-
-🔥 Editors: 
-VS Code                  22 hrs 35 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-g-simclr                 21 hrs 56 mins      ████████████████████████░   97.11% 
-SimSiam                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-dream.github.io          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYun97)](https://github.com/ZhuYun97/github-readme-stats)
+
 
 ### 😎 Github Stats
 ![ZhuYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuYun97&show_icons=true&theme=onedark)
