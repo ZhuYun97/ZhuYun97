@@ -25,6 +25,11 @@
 ---
 <!-- ![Visitor Count](https://profile-counter.glitch.me/ZhuYun97/count.svg) -->
 
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+</ul>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2058%20mins-blue)
 
