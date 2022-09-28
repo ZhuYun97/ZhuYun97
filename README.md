@@ -38,7 +38,7 @@
   <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/518707815"> [IJCAI 2022] RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning</a></b><br><i>Keywords: GNN, Contrastive Learning</i></li>
   <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/477147517"> [AAAI 2022] Augmentation-Free Self-Supervised Learning on Graphs</a></b><br><i>Keywords: GNN, Self-Supervised Learning</i></li>
   <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/475459508"> [ICLR 2022] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation</a></b><br><i>Keywords: GNN, Knowledge Distillation</i></li>
-  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/473825050"> [IJCAI 2017] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation</a></b><br><i>Keywords: Dynamic GNN</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/473825050"> [IJCAI 2017] DynGEM: Deep Embedding Method for Dynamic Graphs</a></b><br><i>Keywords: Dynamic GNN</i></li>
 </ul>
     
 ---
