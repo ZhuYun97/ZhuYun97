@@ -29,7 +29,7 @@
 <ul>
   <li><a href="https://zhuanlan.zhihu.com/p/565185273"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> Awesome GNN works on NeurIPS2022</b></a><br/><i>Classify and arrange the papers of graph on NeurIPS2022.</i></li>
     <li><a href="https://zhuanlan.zhihu.com/p/536489997"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> A Glance of Graph Transformers</b></a><br/><i>Introduce the classical works of graph transformers.</i></li>
-    <li><a href="https://zhuanlan.zhihu.com/p/272228710"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> The Applications of Mutal Information in Deep Learning</b></a><br/><i>Introduce somee classical works which make use of mutal information</i></li>
+    <li><a href="https://zhuanlan.zhihu.com/p/272228710"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> The Applications of Mutal Information in Deep Learning</b></a><br/><i>Introduce some classical works which make use of mutal information</i></li>
 </ul>
 <h3>The notes of reading papers</h3>
 <ul>
