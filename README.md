@@ -17,7 +17,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ZhuYun97" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 - Mainly focusing on graph representation learning
 - Also interested in self-supervised learning and complex system
@@ -27,9 +27,21 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/565185273"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> Awesome GNN works on NeurIPS2022</b></a><br/><i>Classify and arrange the papers of graph on NeurIPS2022.</i></li>
+    <li><a href="https://zhuanlan.zhihu.com/p/536489997"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> A Glance of Graph Transformers</b></a><br/><i>Introduce the classical works of graph transformers.</i></li>
+    <li><a href="https://zhuanlan.zhihu.com/p/272228710"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> The Applications of Mutal Information in Deep Learning</b></a><br/><i>Introduce somee classical works which make use of mutal information</i></li>
 </ul>
-
+<h3>The notes of reading papers</h3>
+<ul>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/567351737"> [NeurIPS 2022] Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective</a></b><br><i>Keywords: GNN, Theoretical</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/545773430"> [ICLR 2022] How Attentive are Graph Attention Networks?</a></b><br><i>Keywords: GNN, Model Architecture</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/518707815"> [IJCAI 2022] RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning</a></b><br><i>Keywords: GNN, Contrastive Learning</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/477147517"> [AAAI 2022] Augmentation-Free Self-Supervised Learning on Graphs</a></b><br><i>Keywords: GNN, Self-Supervised Learning</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/475459508"> [ICLR 2022] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation</a></b><br><i>Keywords: GNN, Knowledge Distillation</i></li>
+  <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/473825050"> [IJCAI 2017] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation</a></b><br><i>Keywords: Dynamic GNN</i></li>
+</ul>
+    
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2058%20mins-blue)
 
