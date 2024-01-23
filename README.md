@@ -13,11 +13,7 @@
 <!--   <a href="https://www.jianshu.com/u/3eb468b5387c/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp; -->
 <!--   <a href="https://space.bilibili.com/299068272"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp; -->
   <a href="https://www.zhihu.com/people/whistle-69"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ZhuYun97" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 - Mainly focusing on graph representation learning
 - Also interested in self-supervised learning and complex system
