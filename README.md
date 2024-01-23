@@ -13,11 +13,11 @@
 <!--   <a href="https://www.jianshu.com/u/3eb468b5387c/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp; -->
 <!--   <a href="https://space.bilibili.com/299068272"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp; -->
   <a href="https://www.zhihu.com/people/whistle-69"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
+<!-- <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=ZhuYun97" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 - Mainly focusing on graph representation learning
 - Also interested in self-supervised learning and complex system
@@ -29,7 +29,7 @@
 <ul>
   <li><a href="https://zhuanlan.zhihu.com/p/565185273"><b><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> Awesome GNN works on NeurIPS2022</b></a><br/><i>Classify and arrange the papers of graph on NeurIPS2022.</i></li>
     <li><a href="https://zhuanlan.zhihu.com/p/536489997"><b><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> A Glance of Graph Transformers</b></a><br/><i>Introduce the classical works of graph transformers.</i></li>
-    <li><a href="https://zhuanlan.zhihu.com/p/272228710"><b><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> The Applications of Mutal Information in Deep Learning</b></a><br/><i>Introduce some classical works which make use of mutal information</i></li>
+    <li><a href="https://zhuanlan.zhihu.com/p/272228710"><b><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"> The Applications of Mutal Information in Deep Learning</b></a><br/><i>Introduce some classical works which make use of mutual information</i></li>
 </ul>
 <h3>The notes of reading papers</h3>
 <ul>
