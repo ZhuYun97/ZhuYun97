@@ -40,10 +40,4 @@
   <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/475459508"> [ICLR 2022] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation</a></b><br><i>Keywords: GNN, Knowledge Distillation</i></li>
   <li><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"><b><a href="https://zhuanlan.zhihu.com/p/473825050"> [IJCAI 2017] DynGEM: Deep Embedding Method for Dynamic Graphs</a></b><br><i>Keywords: Dynamic GNN</i></li>
 </ul>
-    
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYun97)](https://github.com/ZhuYun97/github-readme-stats)
 
----
-### 😎 Github Stats
-![ZhuYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuYun97&show_icons=true&theme=onedark)
