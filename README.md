@@ -17,7 +17,7 @@
 
 - Mainly focusing on graph representation learning
 - Also interested in self-supervised learning and complex system
-- Currently working on graph contrastive learning
+- Currently working on graph foundation models
 ---
 <!-- ![Visitor Count](https://profile-counter.glitch.me/ZhuYun97/count.svg) -->
 
